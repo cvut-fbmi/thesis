@@ -23,23 +23,21 @@ Návod, doporučení a tipy pro psaní závěrečných prací v LaTeXu na FBMI �
   <ul>
     <li><a href="#">1. Jak psát závěrečné práce v LaTeXu</a>
       <ul>
-        <li><a href="#11-">1.1. LaTeX</a></li>
-        <li><a href="#12-">1.2. Overleaf</a></li>
-        <li><a href="#13-">1.3. Nastavení šablony</a></li>
-        <li><a href="#14-">1.4. Používání šablony</a></li>
-        <li><a href="#15-">1.5. Vkládání obrázků</a></li>
-        <li><a href="#16-">1.6. Seznam symbolů a zkratek</a></li>
-        <li><a href="#17-">1.7. Citace</a></li>
-        <li><a href="#18-">1.8. Další užitečné tipy a zdroje</a></li>
+        <li><a href="#11-latex">1.1. LaTeX</a></li>
+        <li><a href="#12-overleaf">1.2. Overleaf</a></li>
+        <li><a href="#13-nastavení-šablony">1.3. Nastavení šablony</a></li>
+        <li><a href="#14-používání-šablony">1.4. Používání šablony</a></li>
+        <li><a href="#15-vkládání-obrázků">1.5. Vkládání obrázků</a></li>
+        <li><a href="#16-seznam-symbolů-a-zkratek">1.6. Seznam symbolů a zkratek</a></li>
+        <li><a href="#17-citace">1.7. Citace</a></li>
+        <li><a href="#18-další-užitečné-tipy-a-zdroje">1.8. Další užitečné tipy a zdroje</a></li>
       </ul>
     </li>
-    <li><a href="#2-">2. Pokročilejší workflow</a>
+    <li><a href="#2-pokročilejší-workflow">2. Pokročilejší workflow</a>
       <ul>
-        <li><a href="#21-">1.1. Instalace LaTeXu</a></li>
-        <li><a href="#22-">1.2. Editory</a></li>
-        <li><a href="#23-">1.3. VSCode & LaTeX Workshop</a></li>
-        <li><a href="#24-">1.4. Git</a></li>
-        <li><a href="#25-">1.5. Citace</a></li>
+        <li><a href="#21-instalace-latexu">1.1. Instalace LaTeXu</a></li>
+        <li><a href="#22-některá-vývojová-prostředí">1.2. Některá vývojová prostředí</a></li>
+        <li><a href="#23-vscode-a-latex-workshop">1.3. VSCode a LaTeX Workshop</a></li>
       </ul>
   </ul>
 </div>
