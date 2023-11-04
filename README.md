@@ -134,7 +134,7 @@ Po nastavení šablony tě budou zajímat už jen složky _chapters_ a _figures_
     │   └── acknowledgement.tex         # Poděkování
     └── ...
 
-Pokud budeš chtít například začít psát kapitolu _Metody_, tak klikneš v Overleaf na soubor `04_methods.tex`. Ten se ti vzápětí otevře a můžeš začít psát. Jednotlivé kapitoly jsou ze začátku vyplněné ukázkovým obsahem a rady co do kapitoly psát. Tento obsah samozřejmě smaž. Je jasné že v kapitole budeš používat různé formátování, seznamy, podnadpisy a další. Doporučuji si proto před psaním prostudovat následující:
+Pokud budeš chtít například začít psát kapitolu _Metody_, tak klikneš v Overleaf na soubor `04_methods.tex`. Ten se ti vzápětí otevře a můžeš začít psát. Jednotlivé kapitoly jsou ze začátku vyplněné ukázkovým obsahem a rady co do kapitoly psát. Tento obsah samozřejmě smaž. Je jasné, že v kapitole budeš používat různé formátování, seznamy, podnadpisy a další. Doporučuji si proto před psaním prostudovat následující:
 
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 * [Sections and chapters](https://www.overleaf.com/learn/latex/Sections_and_chapters)
@@ -145,7 +145,7 @@ Pokud budeš chtít například začít psát kapitolu _Metody_, tak klikneš v 
 * [Mathematics](https://www.overleaf.com/learn/latex/Mathematics)
 
 ## 1.5. Vkládání obrázků
-Pro vkládání obrázků nebo diagramů je potřeba obrázky nejdříve nahrát do složky _figures_ v Overleafu. Podporované formáty obrázků jsou: _.pdf, .png, .jpg_. Po nahrání obrázku jej do lze přidat do obsahu použitím následujícího:
+Pro vkládání obrázků nebo diagramů je potřeba obrázky nejdříve nahrát do složky _figures_ v Overleafu. Podporované formáty obrázků jsou: _.pdf, .png, .jpg_. Po nahrání obrázku jej lze přidat do obsahu použitím následujícího:
 
 ```latex
 \begin{figure}[!htb]
