@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="ttps://github.com/cvut-fbmi/thesis/README.en.md"><img src="https://img.shields.io/badge/lang-EN-red.svg" alt="Github CI" /></a>
+  <a href="https://github.com/cvut-fbmi/thesis/README.en.md"><img src="https://img.shields.io/badge/lang-EN-red.svg" alt="Github CI" /></a>
   <a href="https://github.com/cvut-fbmi/thesis"><img src="https://img.shields.io/badge/lang-CZ-blue.svg" alt="Gitter" /></a>
   <a href="https://www.overleaf.com/latex/templates/fbmi-thesis-template/xrgtwphpthxm"><img src="https://img.shields.io/badge/FBMI-Overleaf%20%C5%A1ablona-138a07.svg" alt="Overleaf" /></a>
 </p>
